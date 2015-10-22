@@ -8,6 +8,7 @@ public class MAIN {
         String str = "HELLO";
         System.out.println("HELLO ANDORID WORLD!!");
 
+        System.out.println("HELLO ANDORID WORLD!!");
 
 
     }
